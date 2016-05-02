@@ -18,7 +18,7 @@ for root, dirs, files in os.walk(sys.argv[1]):
         if file_size == 0: continue
         mime = detector.from_file(path)
         sum, n = ratios.get(mime, (0, 0))
-        ratios[mime] = sum + len(solr.query('collection1', {'q': 'id:' + file}).data['response']['docs']) / file_size, n + 1
+        ratios[mime] = sum + len(json.dumps(solr.query('collection1', {'q': 'id:' + file}).data['response']['docs'])) / file_size, n + 1
         walk_i += 1
         print str(walk_i * 100 // walk_n) + '%\r',
 with open('size-diversity.json', 'w') as f:

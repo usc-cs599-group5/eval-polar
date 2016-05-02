@@ -47,8 +47,7 @@ var xAxis = d3.svg.axis()
 
 var yAxis = d3.svg.axis()
     .scale(y)
-    .orient("left")
-    .ticks(10, "%");
+    .orient("left");
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -57,7 +56,7 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 var rawData =
-{"image/jpeg": 0.00012673513742461054, "image/svg+xml": 0.0008789341678266348, "video/quicktime": 1.52587890625e-05, "image/png": 0.00042610465214480876, "image/vnd.microsoft.icon": 0.0005596452204536379, "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 5.888587916617595e-05, "application/pdf": 1.590318785078942e-05, "application/gzip": 0.009623797450005113, "application/vnd.google-earth.kmz": 0.0006272370240376184, "application/x-tika-ooxml": 1.52587890625e-05, "image/gif": 0.003058183662613526, "application/xml": 0.0008353513800280124, "text/x-php": 0.00010844810758052273, "application/x-bibtex-text-file": 0.00044072278536800354, "application/x-elc": 0.00040170473193490495, "application/x-gtar": 1.52587890625e-05, "application/rdf+xml": 3.251102674436679e-05, "text/plain": 0.08853712256555393, "application/xhtml+xml": 4.335166584563491e-05, "text/x-matlab": 0.0014219885781314146, "application/atom+xml": 0.0004021464524677335, "text/html": 0.0006982777813212896, "application/rss+xml": 0.0003822720975336118, "video/mp4": 1.5308075009567547e-05, "application/zip": 1.52587890625e-05, "application/msword": 2.4526752986695628e-05}
+{"image/jpeg": 0.014012561576940696, "image/svg+xml": 0.09668275846092982, "video/quicktime": 0.001678466796875, "image/png": 0.04687151173592899, "image/vnd.microsoft.icon": 0.061560974249900154, "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 0.010540572370745495, "application/pdf": 0.09431330247391469, "application/gzip": 1.1464056487654488, "application/vnd.google-earth.kmz": 0.07635184536423058, "application/x-tika-ooxml": 0.001678466796875, "image/gif": 0.33640020288748784, "application/xml": 0.43911894553957853, "text/x-php": 0.3239344973430214, "application/x-bibtex-text-file": 0.8281181137064786, "application/x-elc": 0.04418752051283954, "application/x-gtar": 0.001678466796875, "application/rdf+xml": 0.18767893589786322, "text/plain": 10.82671551236579, "application/xhtml+xml": 0.12074830331046917, "text/x-matlab": 0.9546961246173302, "application/atom+xml": 0.20365598594036965, "text/html": 0.31197048564637697, "application/rss+xml": 0.3671809238181737, "video/mp4": 0.00168388825105243, "application/zip": 0.001678466796875, "application/msword": 0.005741381431577519}
 
 var data = Object.keys(rawData).map(function(k) {
   return {label: k, value: rawData[k]};
