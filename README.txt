@@ -1,3 +1,8 @@
+We used absolute paths in the Java code and shell scripts, and decided to keep them that way due to the risk of breaking something if we changed them. Therefore, you must manually change these absolute paths before running Java or shell script files.
+
+The Python scripts use SolrClient, which you can install as follows:
+pip install --user SolrClient
+
 Part 4:
 # Generate classification-path.json.
 # This assumes Solr is running as set up in HW2 part 9.
@@ -45,7 +50,7 @@ mvn exec:java -Dexec .mainClass="Content_Evaluation" -Dexec.args="part10"
 # It will generate measurementSpectrum.json, measurementContentTypesSpectrum.json, measurementSpectrum_abc7news.json and measurementTypesSpectrum.json.
 
 Part 11:
-# vis folder contains all the D3 Visualizations separated by Part Numbers.
+vis folder contains all the D3 Visualizations separated by Part Numbers.
 
 Part 12:
-# Link to the video: 
+Link to the video: https://youtu.be/MObKLqTmnr4
