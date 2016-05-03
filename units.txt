@@ -1,0 +1,43 @@
+temperature
+ celsius C
+ fahrenheit F
+distance
+ kilometer km
+ meter m
+ mile mi
+ inch in
+ foot/feet ft
+weight
+ kilogram kg
+ pound lb 
+ gram g
+ ounce oz
+ ton ton
+area
+ acre acre
+data byte
+ bit b
+ byte B
+ kilobyte KB
+ megabyte MB
+ gigabyte GB
+ terabyte TB
+time
+ year
+ month
+ week
+ day
+ hour
+ minute
+ second
+ am a.m.
+ pm p.m.
+frequency
+ hertz hz
+ kilohertz KHz
+ megahertz MHz
+ gigahertz GHz
+angle
+ degree (without C or F)
+percent
+ percent percentage %

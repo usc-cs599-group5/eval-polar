@@ -1,0 +1,260 @@
+{
+  "NLTK": {
+    "application/xml": {
+      "text2fileSize": 77.50503153775118,
+      "metadata2fileSize": 41.31624982999595
+    },
+    "image/png": {
+      "text2fileSize": 9.546757,
+      "metadata2fileSize": 13.613620477176494
+    },
+    "application/octet-stream": {
+      "text2fileSize": 15.765443,
+      "metadata2fileSize": 12.12132434
+    },
+    "image/jpeg": {
+      "text2fileSize": 11.2435446,
+      "metadata2fileSize": 77.51761393523185
+    },
+    "application/pdf": {
+      "text2fileSize": 53.96374138594356,
+      "metadata2fileSize": 32.461649046098403
+    },
+    "application/msword": {
+      "text2fileSize": 46.63133467344054,
+      "metadata2fileSize": 20.5745626316772
+    },
+    "application/atom+xml": {
+      "text2fileSize": 78.42757570782126,
+      "metadata2fileSize": 30.61820097493643
+    },
+    "image/gif": {
+      "text2fileSize": 18.1324354,
+      "metadata2fileSize": 60.30315859268414
+    },
+    "application/rdf+xml": {
+      "text2fileSize": 28.946582222413798,
+      "metadata2fileSize": 0.0026940015547175867
+    },
+    "application/rss+xml": {
+      "text2fileSize": 25.302376898209667,
+      "metadata2fileSize": 16.375174127440686
+    },
+    "image/svg+xml": {
+      "text2fileSize": 27.877491234873207,
+      "metadata2fileSize": 12.549565779494686
+    },
+    "text/x-php": {
+      "text2fileSize": 38.6739539098059,
+      "metadata2fileSize": 62.48556855954324
+    },
+    "application/xhtml+xml": {
+      "text2fileSize": 46.64044626658904,
+      "metadata2fileSize": 1.0007054974651814
+    },
+    "text/html": {
+      "text2fileSize": 60.208697285911335,
+      "metadata2fileSize": 7.190058926825184
+    },
+    "text/x-matlab": {
+      "text2fileSize": 38.71118571712608,
+      "metadata2fileSize": 26.930469273645813
+    },
+    "application/vnd.google-earth.kmz": {
+      "text2fileSize": 17.643793923398265,
+      "metadata2fileSize": 99.71343900640361
+    },
+    "application/zip": {
+      "text2fileSize": 10.24234355,
+      "metadata2fileSize": 9.145832578064579
+    },
+    "image/vnd.microsoft.icon": {
+      "text2fileSize": 23.132342435,
+      "metadata2fileSize": 16.86343377940025
+    },
+    "video/quicktime": {
+      "text2fileSize": 8.243546572334,
+      "metadata2fileSize": 18.291665156129158
+    },
+    "application/x-gtar": {
+      "text2fileSize": 12.2434354656,
+      "metadata2fileSize": 9.322848692478732
+    },
+    "text/plain": {
+      "text2fileSize": 38.99907166997021,
+      "metadata2fileSize": 10.708985194249499
+    }
+  },
+  "CoreNLP": {
+    "application/xml": {
+      "text2fileSize": 77.50503153775118,
+      "metadata2fileSize": 31.75893124851135
+    },
+    "image/png": {
+      "text2fileSize": 13.243435646,
+      "metadata2fileSize": 12.969939248153012
+    },
+    "application/octet-stream": {
+      "text2fileSize": 45.13243543546,
+      "metadata2fileSize": 34.13243354656
+    },
+    "image/jpeg": {
+      "text2fileSize": 54.323243435,
+      "metadata2fileSize": 73.36053225508622
+    },
+    "application/pdf": {
+      "text2fileSize": 53.96374138594356,
+      "metadata2fileSize": 29.73906457328335
+    },
+    "application/msword": {
+      "text2fileSize": 46.63133467344054,
+      "metadata2fileSize": 18.4910626183428
+    },
+    "application/atom+xml": {
+      "text2fileSize": 78.42757570782126,
+      "metadata2fileSize": 20.276975976215368
+    },
+    "image/gif": {
+      "text2fileSize": 0,
+      "metadata2fileSize": 57.45098516749595
+    },
+    "application/rdf+xml": {
+      "text2fileSize": 28.946582222413798,
+      "metadata2fileSize": 17.701964238853109
+    },
+    "application/rss+xml": {
+      "text2fileSize": 25.302376898209667,
+      "metadata2fileSize": 13.035445958206807
+    },
+    "image/svg+xml": {
+      "text2fileSize": 27.877491234873207,
+      "metadata2fileSize": 64.2559725939514
+    },
+    "text/x-php": {
+      "text2fileSize": 38.6739539098059,
+      "metadata2fileSize": 89.74437363585406
+    },
+    "application/xhtml+xml": {
+      "text2fileSize": 46.64044626658904,
+      "metadata2fileSize": 85.86616167835017
+    },
+    "text/html": {
+      "text2fileSize": 60.208697285911335,
+      "metadata2fileSize": 6.428833086436008
+    },
+    "text/x-matlab": {
+      "text2fileSize": 38.71118571712608,
+      "metadata2fileSize": 25.314042061037698
+    },
+    "application/vnd.google-earth.kmz": {
+      "text2fileSize": 17.643793923398265,
+      "metadata2fileSize": 82.21985321580649
+    },
+    "application/zip": {
+      "text2fileSize": 9.13234245345,
+      "metadata2fileSize": 8.378762748936582
+    },
+    "image/vnd.microsoft.icon": {
+      "text2fileSize": 12.2324324353,
+      "metadata2fileSize": 14.587733467654967
+    },
+    "video/quicktime": {
+      "text2fileSize": 12.13243553,
+      "metadata2fileSize": 16.757525497873164
+    },
+    "application/x-gtar": {
+      "text2fileSize": 12.13243546,
+      "metadata2fileSize": 8.378762748936582
+    },
+    "text/plain": {
+      "text2fileSize": 38.99907166997021,
+      "metadata2fileSize": 10.551826618478985
+    }
+  },
+  "OpenNLP": {
+    "application/xml": {
+      "text2fileSize": 7.750503153775118,
+      "metadata2fileSize": 30.502699493340786
+    },
+    "image/png": {
+      "text2fileSize": 23.233445656,
+      "metadata2fileSize": 13.613620477176494
+    },
+    "application/octet-stream": {
+      "text2fileSize": 12.3232424,
+      "metadata2fileSize": 54.2425356
+    },
+    "image/jpeg": {
+      "text2fileSize": 12.23243535,
+      "metadata2fileSize": 77.51761393523185
+    },
+    "application/pdf": {
+      "text2fileSize": 53.96374138594356,
+      "metadata2fileSize": 6.197592853077499
+    },
+    "application/msword": {
+      "text2fileSize": 46.63133467344054,
+      "metadata2fileSize": 28.7783439341814
+    },
+    "application/atom+xml": {
+      "text2fileSize": 78.42757570782126,
+      "metadata2fileSize": 22.42325885101812
+    },
+    "image/gif": {
+      "text2fileSize": 11.131432424,
+      "metadata2fileSize": 60.30315859268414
+    },
+    "application/rdf+xml": {
+      "text2fileSize": 28.946582222413798,
+      "metadata2fileSize": 17.485205493071236
+    },
+    "application/rss+xml": {
+      "text2fileSize": 25.302376898209667,
+      "metadata2fileSize": 12.09715801662636
+    },
+    "image/svg+xml": {
+      "text2fileSize": 27.877491234873207,
+      "metadata2fileSize": 87.57793855618706
+    },
+    "text/x-php": {
+      "text2fileSize": 38.6739539098059,
+      "metadata2fileSize": 13.797149030932705
+    },
+    "application/xhtml+xml": {
+      "text2fileSize": 46.64044626658904,
+      "metadata2fileSize": 83.11353638187512
+    },
+    "text/html": {
+      "text2fileSize": 60.208697285911335,
+      "metadata2fileSize": 6.34813897938743
+    },
+    "text/x-matlab": {
+      "text2fileSize": 38.71118571712608,
+      "metadata2fileSize": 28.373780907019065
+    },
+    "application/vnd.google-earth.kmz": {
+      "text2fileSize": 17.643793923398265,
+      "metadata2fileSize": 16.760407749795432
+    },
+    "application/zip": {
+      "text2fileSize": 12.32342435,
+      "metadata2fileSize": 0.9145832578064579
+    },
+    "image/vnd.microsoft.icon": {
+      "text2fileSize": 12.1312424,
+      "metadata2fileSize": 16.86343377940025
+    },
+    "video/quicktime": {
+      "text2fileSize": 12.1324352423,
+      "metadata2fileSize": 18.291665156129158
+    },
+    "application/x-gtar": {
+      "text2fileSize": 14.12435355,
+      "metadata2fileSize": 93.22848692478732
+    },
+    "text/plain": {
+      "text2fileSize": 38.99907166997021,
+      "metadata2fileSize": 10.708334954198261
+    }
+  }
+}
