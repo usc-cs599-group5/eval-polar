@@ -11,3 +11,8 @@ Part 5:
 # Generate size-diversity.json.
 # This assumes Solr is running as set up in HW2 part 9.
 python size-diversity.py /path/to/files
+
+metadata-average:
+# We modified our HW2 metadata quality script to output the average of each component of the score across all files, instead of the final score separately for each file.
+# This was not required for the assignment but provided additional statistics for the report.
+python metadata_quality_average.py

@@ -1,0 +1,5 @@
+Percentage of files with description: 23.7834828738%
+Percentage of files with title: 57.4333617133%
+Percentage of files with version: 0.0%
+Percentage of files with license: 0.0%
+Average number of fields: 7.59031370751
