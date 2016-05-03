@@ -65,7 +65,9 @@ def main():
 Percentage of files with title: {}%
 Percentage of files with version: {}%
 Percentage of files with license: {}%
-Average number of fields: {}"""
+Average number of fields: {}
+Percentage of files with DOI: 100%
+Percentage of files that are indexed: 100%"""
         .format(avg_description * 100, avg_title * 100, avg_version * 100, avg_license * 100, avg_no_of_fields))
 
 
